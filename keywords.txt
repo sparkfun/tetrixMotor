@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map vexMotor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+tetrixMotor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+attach	KEYWORD2
+detach	KEYWORD2
+write	KEYWORD2
+writeMicroseconds	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+SERVO	LITERAL1
+CONT	LITERAL1
